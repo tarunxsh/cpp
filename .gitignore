@@ -1,0 +1,12 @@
+.DS_Store
+.vscode
+
+bin/*
+!bin/.gitkeep 
+
+cert/*
+!cert/.gitkeep
+
+*.out
+*.o
+*.s
